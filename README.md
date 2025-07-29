@@ -29,20 +29,20 @@ This experiment covers essential operations on **arrays** and **strings** in C++
 
 ### 3️⃣ Sum and Average of Array Elements
 
-➕ Initialize `sum = 0`
-🔁 Add each element to sum
-➗ Calculate average = sum / count
+➕ Initialize `sum = 0` 
+🔁 Add each element to sum 
+➗ Calculate average = sum / count 
 
 ### 4️⃣ Find Minimum and Maximum
 
-📉 Initialize `min`, `max` as first element
-🔁 Compare each element
-📈 Update `min` and `max` if needed
+📉 Initialize `min`, `max` as first element 
+🔁 Compare each element 
+📈 Update `min` and `max` if needed 
 
 ### 5️⃣ String Declaration & Initialization
 
-📝 Use character arrays
-📦 Use C++ `string` class
+📝 Use character arrays 
+📦 Use C++ `string` class 
 
 ### 6️⃣ String Concatenation
 
