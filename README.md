@@ -17,9 +17,9 @@ This experiment covers essential operations on **arrays** and **strings** in C++
 
 ### 1️⃣ Printing Array Elements
 
-🔸 Define an array with values
-🔸 Loop through the array using a `for` loop
-🔸 Print each element
+🔸 Define an array with values  
+🔸 Loop through the array using a `for` loop  
+🔸 Print each element  
 
 ### 2️⃣ Find a Number in an Array
 
