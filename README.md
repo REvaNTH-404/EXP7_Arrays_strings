@@ -23,15 +23,15 @@ This experiment covers essential operations on **arrays** and **strings** in C++
 
 ### 2️⃣ Find a Number in an Array
 
-🔍 Take number input
-🔸 Loop through array
-✅ If found, display result
+🔍 Take number input  
+🔸 Loop through array  
+✅ If found, display result  
 
 ### 3️⃣ Sum and Average of Array Elements
 
-➕ Initialize `sum = 0` 
-🔁 Add each element to sum 
-➗ Calculate average = sum / count 
+➕ Initialize `sum = 0`   
+🔁 Add each element to sum   
+➗ Calculate average = sum / count   
 
 ### 4️⃣ Find Minimum and Maximum
 
@@ -41,25 +41,25 @@ This experiment covers essential operations on **arrays** and **strings** in C++
 
 ### 5️⃣ String Declaration & Initialization
 
-📝 Use character arrays 
-📦 Use C++ `string` class 
+📝 Use character arrays   
+📦 Use C++ `string` class   
 
 ### 6️⃣ String Concatenation
 
-🔗 Declare two strings
-➕ Combine using `+` operator
+🔗 Declare two strings  
+➕ Combine using `+` operator  
 
 ### 7️⃣ Reverse a String
 
-↩️ Take input string
-🔁 Loop from end to start
-🖨️ Print in reverse
+↩️ Take input string  
+🔁 Loop from end to start  
+🖨️ Print in reverse  
 
 ### 8️⃣ Palindrome Check
 
-🔄 Reverse string
-🔍 Compare with original
-✅ If equal, it's a palindrome
+🔄 Reverse string  
+🔍 Compare with original  
+✅ If equal, it's a palindrome  
 
 ---
 
